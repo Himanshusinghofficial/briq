@@ -13,8 +13,8 @@ const App = () => {
      <Container maxWidth="md">
       <Navbar />
       <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/fav" exact component={FavData} />
+        <Route path="/briq/" exact component={Home} />
+        <Route path="/briq/fav" exact component={FavData} />
       </Switch>
      </Container>
     </Router>

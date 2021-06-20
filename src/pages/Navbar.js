@@ -11,13 +11,13 @@ const Navbar = () => {
   return (
     <AppBar className={classes.appBar} position="fixed" color="inherit">
       <div className={classes.brandContainer}>
-        <Typography component={Link} to="/" className={classes.heading} variant="h6" align="center">Author Quotes</Typography>
+        <Typography component={Link} to="/briq/" className={classes.heading} variant="h6" align="center">Author Quotes</Typography>
       </div>
       <Toolbar className={classes.toolbar}>
-        {location.pathname==='/'?
-        <Button component={Link} to="/fav" variant="contained" color="secondary">Rated</Button>
+        {location.pathname==='/briq/'?
+        <Button component={Link} to="/briq/fav" variant="contained" color="secondary">Rated</Button>
         :
-        <Button component={Link} to="/" variant="contained" color="secondary">Home</Button>
+        <Button component={Link} to="/briq/" variant="contained" color="secondary">Home</Button>
         }
       </Toolbar>
     </AppBar>
