@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/briq/static/css/main.6d73f29e.chunk.css",
-    "main.js": "/briq/static/js/main.261a4a00.chunk.js",
-    "main.js.map": "/briq/static/js/main.261a4a00.chunk.js.map",
+    "main.js": "/briq/static/js/main.2f7d039c.chunk.js",
+    "main.js.map": "/briq/static/js/main.2f7d039c.chunk.js.map",
     "runtime-main.js": "/briq/static/js/runtime-main.3fd92c26.js",
     "runtime-main.js.map": "/briq/static/js/runtime-main.3fd92c26.js.map",
     "static/js/2.abe52a37.chunk.js": "/briq/static/js/2.abe52a37.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3fd92c26.js",
     "static/js/2.abe52a37.chunk.js",
     "static/css/main.6d73f29e.chunk.css",
-    "static/js/main.261a4a00.chunk.js"
+    "static/js/main.2f7d039c.chunk.js"
   ]
 }
